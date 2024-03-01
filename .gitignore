@@ -1,0 +1,9 @@
+
+backend/.env
+.gitattributes
+.DS_Store
+*/.idea/*
+*/__pycache__/*
+*/*/__pycache__/*
+frontend/node_modules/*
+frontend/public/*
